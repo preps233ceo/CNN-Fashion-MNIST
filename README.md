@@ -12,9 +12,8 @@ This project uses a Convolutional Neural Network (CNN) to classify images from t
 
 ## Instructions
 
-1. **Install the required libraries:**
+1. **Install the required libraries(Run in the terminal):**  
    pip install tensorflow numpy matplotlib
-   Run in the terminal
 
 3. **Run the code:**
 The code is provided in `Fashion MNIST Classification.ipynb`. Execute this file to train the CNN model and make predictions.
